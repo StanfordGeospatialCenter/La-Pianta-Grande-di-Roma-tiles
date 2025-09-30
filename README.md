@@ -1,6 +1,6 @@
 # La Pianta Grande di Roma-tiles
 
-XYZ Tiles for the Nolli Map of Rome
+[XYZ Tiles Test Repo for the Nolli Map of Rome](https://github.com/StanfordGeospatialCenter/La-Pianta-Grande-di-Roma-tiles)
 
 Test map, here: [https://stanfordgeospatialcenter.github.io/La-Pianta-Grande-di-Roma-tiles/nolli_map.html](https://stanfordgeospatialcenter.github.io/La-Pianta-Grande-di-Roma-tiles/nolli_map.html)
 
